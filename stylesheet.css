@@ -10,6 +10,11 @@ html,body{
   background: #03a9f4;
   overflow : hidden;
 }
+
+@media only screen and (max-device-width: 400px)
+{.buttons{height:150%;}
+
+
 button{
   position: relative;
   height: 60px;
