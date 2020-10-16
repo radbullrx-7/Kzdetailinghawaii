@@ -16,7 +16,13 @@ html,body{
     height:100%;
     width: 100%;
   }
-	button{height:250%; width:250%}
+button
+{height:250%; 
+width:250%;
+}
+	.btn-responsive{
+	font-size:200px;
+	}
 }
 
 button{
