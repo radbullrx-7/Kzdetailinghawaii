@@ -11,7 +11,7 @@ html,body{
   overflow : hidden;
 }
 
-@media only screen and (max-device-width: 380px)
+@media only screen and (max-device-width: 300px)
 {
   .buttons {height:160%;}
 
