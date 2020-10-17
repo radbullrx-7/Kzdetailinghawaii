@@ -12,7 +12,7 @@ html,body{
 }
 
 @media only screen and (max-device-width: 400px)
-{.buttons{height:500%;}
+{.buttons{height:10%;}
 }
 
 button{
