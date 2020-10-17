@@ -11,9 +11,6 @@ html,body{
   overflow : hidden;
 }
 
-@media only screen and (max-device-width: 400px)
-{.buttons{height:250%;}
-}
 
 button{
   position: relative;
